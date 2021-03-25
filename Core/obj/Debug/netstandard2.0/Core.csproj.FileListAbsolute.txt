@@ -1,0 +1,9 @@
+C:\Users\asus\Source\Repos\ReCap-Project\Core\bin\Debug\netstandard2.0\Core.deps.json
+C:\Users\asus\Source\Repos\ReCap-Project\Core\bin\Debug\netstandard2.0\Core.dll
+C:\Users\asus\Source\Repos\ReCap-Project\Core\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\asus\Source\Repos\ReCap-Project\Core\obj\Debug\netstandard2.0\Core.csprojAssemblyReference.cache
+C:\Users\asus\Source\Repos\ReCap-Project\Core\obj\Debug\netstandard2.0\Core.AssemblyInfoInputs.cache
+C:\Users\asus\Source\Repos\ReCap-Project\Core\obj\Debug\netstandard2.0\Core.AssemblyInfo.cs
+C:\Users\asus\Source\Repos\ReCap-Project\Core\obj\Debug\netstandard2.0\Core.dll
+C:\Users\asus\Source\Repos\ReCap-Project\Core\obj\Debug\netstandard2.0\Core.pdb
+C:\Users\asus\Source\Repos\ReCap-Project\Core\obj\Debug\netstandard2.0\Core.csproj.CoreCompileInputs.cache
