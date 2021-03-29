@@ -40,5 +40,12 @@ namespace Business.Constants
         public static string BrandNameAlreadyExistsError = "Aynı marka ismi zaten kullanılmakta";
         public static string BrandNotExistsError = "Marka bulunamadı";
         public static string ColorNotExistsError = "Renk bulunamadı";
+        public static string AuthorizationDenied = "Yetkiniz yok.";
+        public static string UserRegistered = "Kayıt oldu";
+        public static string UserNotFound = "Kayıt bulunamadı";
+        public static string PasswordError = "Şifre hatalı";
+        public static string SuccessfulLogin = "Giriş başarılı";
+        public static string UserAlreadyExists = "Kullanıcı zaten var.";
+        public static string AccessTokenCreated = "Token oluşturuldu";
     }
 }

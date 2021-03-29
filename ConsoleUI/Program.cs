@@ -41,19 +41,19 @@ namespace ConsoleUI
             }
         }
 
-        private static void UserListTest()
-        {
-            UserManager userManager = new UserManager(new EfUserDal());
-            var result = userManager.GetAll();
-            if (result.Success==true)
-            {
-                foreach (var user in result.Data)
-                {
-                    Console.WriteLine(user.FirstName+" "+user.LastName);
-                }
-                Console.WriteLine(result.Message);
-            }
-        }
+        //private static void UserListTest()
+        //{
+        //    UserManager userManager = new UserManager(new EfUserDal());
+        //    var result = userManager.GetAll();
+        //    if (result.Success==true)
+        //    {
+        //        foreach (var user in result.Data)
+        //        {
+        //            Console.WriteLine(user.FirstName+" "+user.LastName);
+        //        }
+        //        Console.WriteLine(result.Message);
+        //    }
+        //}
 
         //private static void DeleteTest()
         //{

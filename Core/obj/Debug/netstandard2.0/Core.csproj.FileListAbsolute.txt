@@ -7,3 +7,12 @@ C:\Users\asus\Source\Repos\ReCap-Project\Core\obj\Debug\netstandard2.0\Core.Asse
 C:\Users\asus\Source\Repos\ReCap-Project\Core\obj\Debug\netstandard2.0\Core.dll
 C:\Users\asus\Source\Repos\ReCap-Project\Core\obj\Debug\netstandard2.0\Core.pdb
 C:\Users\asus\Source\Repos\ReCap-Project\Core\obj\Debug\netstandard2.0\Core.csproj.CoreCompileInputs.cache
+E:\source\ReCap-Project\Core\bin\Debug\netstandard2.0\Core.deps.json
+E:\source\ReCap-Project\Core\bin\Debug\netstandard2.0\Core.dll
+E:\source\ReCap-Project\Core\bin\Debug\netstandard2.0\Core.pdb
+E:\source\ReCap-Project\Core\obj\Debug\netstandard2.0\Core.csprojAssemblyReference.cache
+E:\source\ReCap-Project\Core\obj\Debug\netstandard2.0\Core.AssemblyInfoInputs.cache
+E:\source\ReCap-Project\Core\obj\Debug\netstandard2.0\Core.AssemblyInfo.cs
+E:\source\ReCap-Project\Core\obj\Debug\netstandard2.0\Core.dll
+E:\source\ReCap-Project\Core\obj\Debug\netstandard2.0\Core.pdb
+E:\source\ReCap-Project\Core\obj\Debug\netstandard2.0\Core.csproj.CoreCompileInputs.cache

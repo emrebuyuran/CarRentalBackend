@@ -24,3 +24,17 @@ C:\Users\asus\Source\Repos\ReCap-Project\DataAccess\obj\Debug\netstandard2.0\Dat
 C:\Users\asus\Source\Repos\ReCap-Project\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
 C:\Users\asus\Source\Repos\ReCap-Project\DataAccess\bin\Debug\netstandard2.0\Core.dll
 C:\Users\asus\Source\Repos\ReCap-Project\DataAccess\bin\Debug\netstandard2.0\Core.pdb
+E:\source\ReCap-Project\DataAccess\obj\Debug\netstandard2.0\DataAccess.csprojAssemblyReference.cache
+E:\source\ReCap-Project\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+E:\source\ReCap-Project\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+E:\source\ReCap-Project\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
+E:\source\ReCap-Project\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
+E:\source\ReCap-Project\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
+E:\source\ReCap-Project\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
+E:\source\ReCap-Project\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
+E:\source\ReCap-Project\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
+E:\source\ReCap-Project\DataAccess\bin\Debug\netstandard2.0\Core.dll
+E:\source\ReCap-Project\DataAccess\bin\Debug\netstandard2.0\Entities.dll
+E:\source\ReCap-Project\DataAccess\bin\Debug\netstandard2.0\Core.pdb
+E:\source\ReCap-Project\DataAccess\bin\Debug\netstandard2.0\Entities.pdb
+E:\source\ReCap-Project\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
